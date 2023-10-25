@@ -1,0 +1,10 @@
+{
+    "name": "races",
+    "version-string": "0.1.0",
+    "license": "MIT",
+    "dependencies": [
+        "sdl2",
+        "spdlog",
+        "sdl2-image"
+    ]
+}
